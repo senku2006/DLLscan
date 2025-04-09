@@ -52,7 +52,7 @@
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/YourUsername/CyberSenku.git
+   git clone https://github.com/senku2006/DLLscan.git
    cd Dllscan
    cd python
    ```
