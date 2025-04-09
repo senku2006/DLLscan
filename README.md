@@ -53,7 +53,7 @@
 1. Clone the Repository:
    ```bash
    git clone https://github.com/senku2006/DLLscan.git
-   cd Dllscan
+   cd DLLscan
    cd python
    ```
 
